@@ -4,7 +4,7 @@ import sun.applet.Main;
 
 public class SystemTool_renjunqing {
 public static void main(String[] args) {
-	System.out.println("你好，我是任俊清");
+	System.out.println("你好，这是是任俊清");
 }
 
 }
