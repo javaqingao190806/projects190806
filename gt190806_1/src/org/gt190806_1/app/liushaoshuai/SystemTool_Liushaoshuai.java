@@ -3,7 +3,7 @@ package org.gt190806_1.app.liushaoshuai;
 public class SystemTool_Liushaoshuai {
 
 	public void say() {
-		System.out.println("ÄãºÃ£¬ÎÒÊÇÁõÉÛË§");
+		System.out.println("ï¼Ÿï¼Ÿï¼Ÿï¼Ÿï¼Ÿ");
 	}
 
 }
